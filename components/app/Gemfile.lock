@@ -174,7 +174,7 @@ GEM
       concurrent-ruby (~> 1.0)
     ice_nine (0.11.2)
     jmespath (1.6.2)
-    json (2.15.0)
+    json (2.15.1)
     jwt (3.1.2)
       base64
     language_server-protocol (3.17.0.5)
@@ -308,7 +308,7 @@ GEM
     thread_safe (0.3.6)
     tilt (2.6.1)
     timers (4.3.5)
-    twilio-ruby (7.8.3)
+    twilio-ruby (7.8.4)
       faraday (>= 0.9, < 3.0)
       jwt (>= 1.5, < 4.0)
       nokogiri (>= 1.6, < 2.0)
@@ -317,7 +317,7 @@ GEM
     unicode-display_width (3.2.0)
       unicode-emoji (~> 4.1)
     unicode-emoji (4.1.0)
-    uri (1.0.3)
+    uri (1.0.4)
     vcr (6.3.1)
       base64
     virtus (1.0.5)
