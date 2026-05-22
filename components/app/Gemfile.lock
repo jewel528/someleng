@@ -101,8 +101,8 @@ GEM
       bigdecimal
       jmespath (~> 1, >= 1.6.1)
       logger
-    aws-sdk-lambda (1.180.0)
-      aws-sdk-core (~> 3, >= 3.247.0)
+    aws-sdk-lambda (1.181.0)
+      aws-sdk-core (~> 3, >= 3.248.0)
       aws-sigv4 (~> 1.5)
     aws-sdk-polly (1.125.0)
       aws-sdk-core (~> 3, >= 3.248.0)
