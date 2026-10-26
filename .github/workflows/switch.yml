@@ -35,7 +35,7 @@ jobs:
           ../freeswitch/tests/tests.sh
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v6
+        uses: codecov/codecov-action@v7
 
       - name: Set Deployment Matrix
         id: set-deployment-matrix
